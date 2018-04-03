@@ -8,7 +8,7 @@ Originally just this gist: [https://gist.github.com/loisaidasam/814af69f97b1cf3a
 
 ## Update:
 
-Ready for 2017!
+Ready for 2018!
 
 ## Usage:
 
