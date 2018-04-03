@@ -6,12 +6,22 @@ Based on [http://www.espn.com/golf/leaderboard](http://www.espn.com/golf/leaderb
 
 Originally just this gist: [https://gist.github.com/loisaidasam/814af69f97b1cf3a7edf](https://gist.github.com/loisaidasam/814af69f97b1cf3a7edf)
 
-Requirements:
+## Update:
+
+Ready for 2017!
+
+## Usage:
+
+```shell
+./masters.sh
+```
+
+## Requirements:
 
 - [curl](http://curl.haxx.se/)
 - [pup](https://github.com/EricChiang/pup)
 - [jq](http://stedolan.github.io/jq/)
 
-Web API: http://samsandberg.com/themasters/
+## Web API
 
-Update: Ready for 2017!
+[http://samsandberg.com/themasters/](http://samsandberg.com/themasters/)
