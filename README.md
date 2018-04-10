@@ -13,8 +13,10 @@ Ready for 2018!
 ## Usage:
 
 ```shell
-./masters.sh
+./update.sh
 ```
+
+The actual data parsing happens in `parse_players.sh`
 
 ## Requirements:
 
