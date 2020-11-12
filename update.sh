@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Data source
-url="http://www.espn.com/golf/leaderboard"
+url="https://www.espn.com/golf/leaderboard"
 
 # Current directory
 dir_base=$(dirname "$BASH_SOURCE")
